@@ -1,3 +1,8 @@
+/**
+ * Kalian diminta untuk mencari karakter yang sama pada string yang diberikan.
+ * Expected output dalam bentuk string. 
+ */
+
 function findSameOne(str) {
     
 }

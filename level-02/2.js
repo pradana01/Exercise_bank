@@ -1,3 +1,8 @@
+/**
+ * Pada tugas ini kalian diminta untuk mencari hewan peliharaan pada array multidimensi pada parameter arr.
+ * Expected output, tuliskan koordinat kalian menemukan hewan peliharaan tersebut. 
+ */
+
 function findMyPet(arr, pet) {
 
 }

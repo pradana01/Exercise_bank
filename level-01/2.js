@@ -1,3 +1,8 @@
+/**
+ * Kalian diminta untuk menggabungkan semua karakter yang ada dalam parameter str dan menghilangkan tanda koma (,)
+ */
+
+
 function split(str) {
 
 }

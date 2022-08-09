@@ -1,3 +1,10 @@
+/**
+ * Belajar object
+ * Di sini kalian diminta untuk mengelompokkan properti dari jenis mahluk hidup yang ada pada parameter arr.
+ * Jadikan dia sebagai object. Mahluk hidup yang ada dapat berubah-ubah. 
+ */
+
+
 function addProperty(arr) {
 
 }

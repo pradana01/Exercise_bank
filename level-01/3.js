@@ -1,3 +1,8 @@
+/**
+ * Kalian diminta untuk mencari berapa banyak angka ganjil 
+ */
+
+
 function findOdd(str) {
 
 }
